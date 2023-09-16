@@ -55,3 +55,7 @@ function onOut(){
     document.getElementById('img_se').src = "images/off.gif"
 
 }
+// color change 
+function colorChange(){
+    document.getElementById('co_h3').style.color="green"
+}
